@@ -48,3 +48,6 @@ which was an inspiration for me to create this cheatsheet. The only reason this
 exists is because I wanted to have an offline copy of the most important Vim
 motions keymaps right on my terminal.
 
+Also, my [blog post](https://hrmnjt.dev/blog/vimc/) explaining the motivation
+behind creating this reference.
+
